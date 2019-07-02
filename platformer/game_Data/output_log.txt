@@ -1,0 +1,51 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon (TM) 520 (ID=0x6665)
+    Vendor:   ATI
+    VRAM:     2039 MB
+    Driver:   23.20.768.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\killer queen\Downloads\platformer\platformer\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.340341 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.196086 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1251.
+Total: 0.641028 ms (FindLiveObjects: 0.088417 ms CreateObjectMapping: 0.038040 ms MarkObjects: 0.505831 ms  DeleteObjects: 0.007710 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.254812 ms
+
+Unloading 224 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 1.148403 ms (FindLiveObjects: 0.134168 ms CreateObjectMapping: 0.046265 ms MarkObjects: 0.458024 ms  DeleteObjects: 0.506346 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.957687 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1310.
+Total: 0.771599 ms (FindLiveObjects: 0.122345 ms CreateObjectMapping: 0.067855 ms MarkObjects: 0.567004 ms  DeleteObjects: 0.012851 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3ea4 -> priority: 1 
+  Thread -> id: 5f3c -> priority: 1 
+  Thread -> id: 4118 -> priority: 1 
+  Thread -> id: 519c -> priority: 1 
